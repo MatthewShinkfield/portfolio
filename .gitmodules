@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/MatthewShinkfield/portfolio.git
+	url = git@github.com:MatthewShinkfield/portfolio-frontend.git
 [submodule "studio"]
 	path = studio
-	url = https://github.com/MatthewShinkfield/portfolio-studio.git
+	url = git@github.com:MatthewShinkfield/portfolio-studio.git
